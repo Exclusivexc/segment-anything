@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python train.py -tmd True -lr 0.001 
